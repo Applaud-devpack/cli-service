@@ -9,8 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git",
-    "directory": "packages/@vue/cli-service"
+    "url": "git+https://github.com/Applaud-devpack/cli-service.git"
   },
   "keywords": [
     "vue",
@@ -20,7 +19,7 @@
   "author": "Applaud",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-cli/issues"
+    "url": "https://github.com/Applaud-devpack/cli-service/issues"
   },
   "homepage": "https://cli.vuejs.org/",
   "dependencies": {
