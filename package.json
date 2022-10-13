@@ -1,6 +1,6 @@
 {
   "name": "@applaud/cli-service",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "local service for vue-cli projects, build on @vue/cli-service@3.4.1",
   "main": "lib/Service.js",
   "typings": "types/index.d.ts",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://cli.vuejs.org/",
   "dependencies": {
-    "@applaud/webpack-bundle-analyzer": "1.0.0",
+    "@applaud/webpack-bundle-analyzer": "1.0.1",
     "@intervolga/optimize-cssnano-plugin": "^1.0.5",
     "@soda/friendly-errors-webpack-plugin": "^1.7.1",
     "@vue/cli-overlay": "^3.4.1",
