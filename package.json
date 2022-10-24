@@ -1,6 +1,6 @@
 {
   "name": "@applaud/cli-service",
-  "version": "1.0.8",
+  "version": "1.0.6",
   "description": "local service for vue-cli projects, build on @vue/cli-service@3.4.1",
   "main": "lib/Service.js",
   "typings": "types/index.d.ts",
