@@ -25,8 +25,8 @@
   "dependencies": {
     "@applaud/copy-webpack-plugin": "^1.0.1",
     "@applaud/webpack-bundle-analyzer": "1.0.2",
-    "@applaud/optimize-cssnano-plugin": "^1.0.0",
-    "@applaud/cssnano":"^1.0.0",
+    "@applaud/optimize-cssnano-plugin": "^1.0.3",
+    "@applaud/cssnano": "^1.0.3",
     "@soda/friendly-errors-webpack-plugin": "^1.7.1",
     "@vue/cli-overlay": "^3.4.1",
     "@vue/cli-shared-utils": "^3.4.1",
