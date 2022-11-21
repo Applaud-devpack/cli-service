@@ -1,6 +1,6 @@
 {
   "name": "@applaud/cli-service",
-  "version": "1.0.10",
+  "version": "1.1.0",
   "description": "local service for vue-cli projects, build on @vue/cli-service@3.4.1",
   "main": "lib/Service.js",
   "typings": "types/index.d.ts",
@@ -70,7 +70,7 @@
     "thread-loader": "npm:@applaud/thread-loader@^1.0.2",
     "url-loader": "npm:@applaud/url-loader@^1.0.0",
     "vue-loader": "npm:@applaud/vue-loader@^1.0.0",
-    "webpack": "npm:@applaud/webpack@^1.0.2",
+    "webpack": "npm:@applaud/webpack-old@^1.0.0",
     "webpack-chain": "^4.11.0",
     "webpack-dev-server": "^3.1.14",
     "webpack-merge": "^4.2.1",
